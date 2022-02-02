@@ -11,3 +11,4 @@ A simple landing page
 * Using funadamental knowledge of HTML tags
 * Adding images to the webpage
 * CSS styling
+* Flexbox 
